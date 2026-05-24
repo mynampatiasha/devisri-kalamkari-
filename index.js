@@ -30,7 +30,7 @@ const PRODUCTS = [
     price: 850,
     orig: 1100,
     // Indigo block-printed cotton fabric/scarf with rich deep tones
-    img: 'Krishna_Leela_Dupatta.jfif',
+    img: 'Krishna_Leela_Dupatta_2.png',
     tags: ['Block print', 'Chanderi', 'Indigo dye'],
     inStock: true,
     desc: 'Block-printed Krishna scenes on chanderi, indigo natural dye',
@@ -54,7 +54,7 @@ const PRODUCTS = [
     price: 1650,
     orig: 2000,
     // Unstitched cotton fabric with floral block-print in saffron/rust tones
-    img: 'Floral_Vine_Kurta_Set.webp',
+    img: 'Floral_Vine_Kurta_Set_2.png',
     tags: ['Cotton', 'Pomegranate dye', 'Unstitched'],
     inStock: true,
     desc: 'Vine & lotus motif — unstitched 2-piece set, pomegranate & turmeric dye',
@@ -78,7 +78,7 @@ const PRODUCTS = [
     price: 480,
     orig: 580,
     // Natural off-white cotton yardage — rolled fabric, clean texture
-    img: 'Lotus_Pond_Fabric.jfif',
+    img: 'Lotus_Pond_Fabric_2.png',
     tags: ['Yardage', 'Cotton', 'Lotus'],
     inStock: true,
     desc: 'Lotus pond block-print yardage, 44" wide — perfect for blouses & kurtas',
@@ -90,7 +90,7 @@ const PRODUCTS = [
     price: 3800,
     orig: 4600,
     // Traditional Indian saree with intricate panel detailing — muted tones
-    img: 'Dashavatara_Panel_Saree.jfif',
+    img: 'Dashavatara_Panel_Saree_2.png',
     tags: ['Pen Kalamkari', 'Cotton', 'Mythological'],
     inStock: true,
     desc: 'Ten avatars of Vishnu depicted panel by panel in full pen kalamkari',
@@ -175,7 +175,7 @@ const GALLERY_IMAGES = [
   },
   {
     // Natural dye bowls — red, indigo, turmeric laid out on cloth
-    url: 'Krishna_Leela_Dupatta.jfif',
+    url: 'Krishna_Leela_Dupatta_2.png',
     alt: 'Natural dye bowls — indigo, pomegranate red, turmeric yellow',
     label: 'Natural dyes only',
   },
@@ -187,7 +187,7 @@ const GALLERY_IMAGES = [
   },
   {
     // Stack of folded Indian textiles — sarees and fabric
-    url: 'Floral_Vine_Kurta_Set.webp',
+    url: 'Floral_Vine_Kurta_Set_2.png',
     alt: 'Stack of finished kalamkari pieces ready to ship',
     label: 'Ready to ship',
   },
