@@ -1,21 +1,33 @@
-# Devisri Kalamkari
+# 🎨 Devisri Kalamkari
 
-Landing page for Devisri Kalamkari, a hand-painted kalamkari fabric and
-apparel store in Srikalahasti — sarees, dupattas, kurta sets, and
-customizable kalamkari fabric.
+`Static Site` `HTML/CSS/JS` `Handcrafted Textiles`
 
-## Tech stack
+> Hand-painted kalamkari fabric & apparel, Srikalahasti.
 
-Static HTML, CSS, and vanilla JavaScript — no build step, no framework.
+## What is this?
 
-## Structure
+A landing page for Devisri Kalamkari, a hand-painted kalamkari fabric and
+apparel store — sarees, dupattas, kurta sets, and customizable kalamkari
+fabric, straight from Srikalahasti, the traditional home of this art form.
 
-- `index.html` — the page
-- `index.css` — styles
-- `index.js` — page behavior
-- product photos
+## ✨ Highlights
 
-## Running locally
+- 🎨 Hand-painted kalamkari product showcase
+- 🧵 Customizable fabric options
+
+## 🛠️ Tech Stack
+
+Static **HTML**, **CSS**, and vanilla **JavaScript** — no build step, no framework.
+
+## 📁 Structure
+
+```
+index.html      # the page
+index.css        # styles
+index.js         # page behavior
+```
+
+## 🚀 Running Locally
 
 ```bash
 python -m http.server 8000
